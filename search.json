@@ -1,125 +1,5 @@
 [
   {
-    "objectID": "protocols/nir-scanning.html",
-    "href": "protocols/nir-scanning.html",
-    "title": "NIR fruit scanning",
-    "section": "",
-    "text": "Draft. Write this page, then delete this note.",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "NIR fruit scanning"
-    ]
-  },
-  {
-    "objectID": "protocols/nir-scanning.html#equipment-and-app-setup",
-    "href": "protocols/nir-scanning.html#equipment-and-app-setup",
-    "title": "NIR fruit scanning",
-    "section": "Equipment and app setup",
-    "text": "Equipment and app setup",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "NIR fruit scanning"
-    ]
-  },
-  {
-    "objectID": "protocols/nir-scanning.html#scanning-procedure",
-    "href": "protocols/nir-scanning.html#scanning-procedure",
-    "title": "NIR fruit scanning",
-    "section": "Scanning procedure",
-    "text": "Scanning procedure",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "NIR fruit scanning"
-    ]
-  },
-  {
-    "objectID": "protocols/nir-scanning.html#exporting-and-storing-scans",
-    "href": "protocols/nir-scanning.html#exporting-and-storing-scans",
-    "title": "NIR fruit scanning",
-    "section": "Exporting and storing scans",
-    "text": "Exporting and storing scans",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "NIR fruit scanning"
-    ]
-  },
-  {
-    "objectID": "protocols/seed-dna-extraction.html",
-    "href": "protocols/seed-dna-extraction.html",
-    "title": "Seed DNA extraction",
-    "section": "",
-    "text": "Draft. Write this page, then delete this note.",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "Seed DNA extraction"
-    ]
-  },
-  {
-    "objectID": "protocols/seed-dna-extraction.html#materials",
-    "href": "protocols/seed-dna-extraction.html#materials",
-    "title": "Seed DNA extraction",
-    "section": "Materials",
-    "text": "Materials",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "Seed DNA extraction"
-    ]
-  },
-  {
-    "objectID": "protocols/seed-dna-extraction.html#choosing-where-to-sample-the-seed",
-    "href": "protocols/seed-dna-extraction.html#choosing-where-to-sample-the-seed",
-    "title": "Seed DNA extraction",
-    "section": "Choosing where to sample the seed",
-    "text": "Choosing where to sample the seed",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "Seed DNA extraction"
-    ]
-  },
-  {
-    "objectID": "protocols/seed-dna-extraction.html#grinding",
-    "href": "protocols/seed-dna-extraction.html#grinding",
-    "title": "Seed DNA extraction",
-    "section": "Grinding",
-    "text": "Grinding",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "Seed DNA extraction"
-    ]
-  },
-  {
-    "objectID": "protocols/seed-dna-extraction.html#extraction",
-    "href": "protocols/seed-dna-extraction.html#extraction",
-    "title": "Seed DNA extraction",
-    "section": "Extraction",
-    "text": "Extraction",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "Seed DNA extraction"
-    ]
-  },
-  {
-    "objectID": "protocols/seed-dna-extraction.html#qc-and-expected-yields",
-    "href": "protocols/seed-dna-extraction.html#qc-and-expected-yields",
-    "title": "Seed DNA extraction",
-    "section": "QC and expected yields",
-    "text": "QC and expected yields",
-    "crumbs": [
-      "Home",
-      "Protocols",
-      "Seed DNA extraction"
-    ]
-  },
-  {
     "objectID": "breedbase/record-types.html",
     "href": "breedbase/record-types.html",
     "title": "Accessions, seedlots, and crosses",
@@ -237,6 +117,420 @@
       "Home",
       "Breedbase",
       "Field Book to Breedbase"
+    ]
+  },
+  {
+    "objectID": "naming/index.html",
+    "href": "naming/index.html",
+    "title": "Naming conventions",
+    "section": "",
+    "text": "Lines, crosses, seedlots and traits all follow set naming patterns. Consistent names are what let Breedbase link records, let us find seed and data years later, and let anyone in the lab read a name and know what it refers to.\n\n\n\n\n\n\nImportant\n\n\n\nIf something doesn’t fit these conventions, ask before creating a new code or format.\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Naming conventions"
+    ]
+  },
+  {
+    "objectID": "naming/trait.html",
+    "href": "naming/trait.html",
+    "title": "Trait names",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Trait names"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UNH Cucurbit Lab Docs",
+    "section": "",
+    "text": "This site holds the lab’s working documentation. For information about the UNH Cucurbit Breeding program’s research and breeding efforts please visit our lab’s main website at unhcucurbits.org\n\n\nGetting started\nNew to the lab? Accounts, access, and your first week.\n\n\nBreedbase\nHow to use the lab Breedbase instance.\n\n\nNaming conventions\nNaming conventions for lines, crosses, seedlots, traits etc.\n\n\nProtocols\nWet lab and phenotyping procedures.\n\n\nData & computing\nWhere data lives, Nextcloud, the HPC, pipelines, and cucurbitr.\n\n\nContributing\nHow to add or fix a page, and the Quarto syntax we use.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "computing/index.html",
+    "href": "computing/index.html",
+    "title": "Data & computing",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.\n\n\n\nStart with Where data lives, then read the page for whichever system you are using.\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Data & computing"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html",
+    "href": "computing/hpc.html",
+    "title": "Premise HPC",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#logging-in",
+    "href": "computing/hpc.html#logging-in",
+    "title": "Premise HPC",
+    "section": "Logging in",
+    "text": "Logging in",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#submitting-jobs-with-slurm",
+    "href": "computing/hpc.html#submitting-jobs-with-slurm",
+    "title": "Premise HPC",
+    "section": "Submitting jobs with SLURM",
+    "text": "Submitting jobs with SLURM",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#the-lab-partition",
+    "href": "computing/hpc.html#the-lab-partition",
+    "title": "Premise HPC",
+    "section": "The lab partition",
+    "text": "The lab partition",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#sharedgeno-layout",
+    "href": "computing/hpc.html#sharedgeno-layout",
+    "title": "Premise HPC",
+    "section": "shared/geno layout",
+    "text": "shared/geno layout",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#your-project-folders",
+    "href": "computing/hpc.html#your-project-folders",
+    "title": "Premise HPC",
+    "section": "Your project folders",
+    "text": "Your project folders",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html",
+    "href": "computing/nextcloud.html",
+    "title": "Nextcloud",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html#folder-structure",
+    "href": "computing/nextcloud.html#folder-structure",
+    "title": "Nextcloud",
+    "section": "Folder structure",
+    "text": "Folder structure",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html#tablet-app-passwords",
+    "href": "computing/nextcloud.html#tablet-app-passwords",
+    "title": "Nextcloud",
+    "section": "Tablet app passwords",
+    "text": "Tablet app passwords",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html#bulk-upload-with-rclone",
+    "href": "computing/nextcloud.html#bulk-upload-with-rclone",
+    "title": "Nextcloud",
+    "section": "Bulk upload with rclone",
+    "text": "Bulk upload with rclone",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html#pushing-lab-pc-files",
+    "href": "computing/nextcloud.html#pushing-lab-pc-files",
+    "title": "Nextcloud",
+    "section": "Pushing lab PC files",
+    "text": "Pushing lab PC files",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html",
+    "href": "getting-started/index.html",
+    "title": "Getting started",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.\nWhat a new lab member should read first, in order.",
+    "crumbs": [
+      "Home",
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#first-week-checklist",
+    "href": "getting-started/index.html#first-week-checklist",
+    "title": "Getting started",
+    "section": "First week checklist",
+    "text": "First week checklist\n\nRequest accounts (see Accounts and access)\nRead the naming conventions\nRead where data lives\nClone this repo and preview the site locally (Contributing)",
+    "crumbs": [
+      "Home",
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html",
+    "href": "contributing/index.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "Anyone in the lab can edit this site. Small fixes can be made in the browser on GitHub. Bigger changes are easier on your own computer.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#quick-fix-in-the-browser",
+    "href": "contributing/index.html#quick-fix-in-the-browser",
+    "title": "Contributing",
+    "section": "Quick fix in the browser",
+    "text": "Quick fix in the browser\nClick Edit this page (under the table of contents on the right) on any page. GitHub opens the source file. Make the change and open a pull request. The site rebuilds after the pull request is merged into main.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#working-on-your-own-computer",
+    "href": "contributing/index.html#working-on-your-own-computer",
+    "title": "Contributing",
+    "section": "Working on your own computer",
+    "text": "Working on your own computer\n\nInstall Quarto. RStudio and Positron already include it.\nClone this repository.\nFrom the repository folder, run:\n\nquarto preview\nThe site opens in your browser and reloads every time you save a file.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#adding-a-page",
+    "href": "contributing/index.html#adding-a-page",
+    "title": "Contributing",
+    "section": "Adding a page",
+    "text": "Adding a page\n\nCopy _templates/page.qmd into the folder for the section it belongs in, for example protocols/fruit-firmness.qmd. Use lowercase file names with hyphens.\nFill in title, description, and order at the top of the file.\nSave. The page appears in the sidebar on its own. You do not need to edit _quarto.yml.\n\nTo add a whole new section, make a new folder containing an index.qmd. That page’s title becomes the sidebar heading, and its order sets where the section appears.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#images",
+    "href": "contributing/index.html#images",
+    "title": "Contributing",
+    "section": "Images",
+    "text": "Images\nPut images in an images/ folder inside the section and always write alt text. See Quarto syntax for the format.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#pages-that-run-code",
+    "href": "contributing/index.html#pages-that-run-code",
+    "title": "Contributing",
+    "section": "Pages that run code",
+    "text": "Pages that run code\nIf a page runs R or Python code, render it on your computer before pushing (quarto render path/to/page.qmd) and commit the _freeze/ folder along with your page. The GitHub build reuses those stored results and never runs your code, so it does not need R, Python, or your packages.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#submitting-changes",
+    "href": "contributing/index.html#submitting-changes",
+    "title": "Contributing",
+    "section": "Submitting changes",
+    "text": "Submitting changes\ngit switch -c fix-nextcloud-page     # new branch\n# ...edit, preview, save...\ngit add .\ngit commit -m \"Update Nextcloud folder structure\"\ngit push -u origin fix-nextcloud-page\nThen open a pull request on GitHub. Once it is merged into main, the site publishes in a few minutes.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#writing-guidelines",
+    "href": "contributing/index.html#writing-guidelines",
+    "title": "Contributing",
+    "section": "Writing guidelines",
+    "text": "Writing guidelines\n\nOne topic per page.\nWrite steps that someone new can follow without asking you.\nLink to the source of truth (Breedbase, a pipeline’s own repository) instead of copying details that change.\nIf a step has a common failure, add a Troubleshooting section rather than burying it in the steps.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "protocols/index.html",
+    "href": "protocols/index.html",
+    "title": "Protocols",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.\n\n\n\nProtocols are written so someone new can follow them without asking. Use the page template for new ones.\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Protocols"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html",
+    "href": "protocols/seed-dna-extraction.html",
+    "title": "Seed DNA extraction",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#materials",
+    "href": "protocols/seed-dna-extraction.html#materials",
+    "title": "Seed DNA extraction",
+    "section": "Materials",
+    "text": "Materials",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#choosing-where-to-sample-the-seed",
+    "href": "protocols/seed-dna-extraction.html#choosing-where-to-sample-the-seed",
+    "title": "Seed DNA extraction",
+    "section": "Choosing where to sample the seed",
+    "text": "Choosing where to sample the seed",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#grinding",
+    "href": "protocols/seed-dna-extraction.html#grinding",
+    "title": "Seed DNA extraction",
+    "section": "Grinding",
+    "text": "Grinding",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#extraction",
+    "href": "protocols/seed-dna-extraction.html#extraction",
+    "title": "Seed DNA extraction",
+    "section": "Extraction",
+    "text": "Extraction",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#qc-and-expected-yields",
+    "href": "protocols/seed-dna-extraction.html#qc-and-expected-yields",
+    "title": "Seed DNA extraction",
+    "section": "QC and expected yields",
+    "text": "QC and expected yields",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/nir-scanning.html",
+    "href": "protocols/nir-scanning.html",
+    "title": "NIR fruit scanning",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "NIR fruit scanning"
+    ]
+  },
+  {
+    "objectID": "protocols/nir-scanning.html#equipment-and-app-setup",
+    "href": "protocols/nir-scanning.html#equipment-and-app-setup",
+    "title": "NIR fruit scanning",
+    "section": "Equipment and app setup",
+    "text": "Equipment and app setup",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "NIR fruit scanning"
+    ]
+  },
+  {
+    "objectID": "protocols/nir-scanning.html#scanning-procedure",
+    "href": "protocols/nir-scanning.html#scanning-procedure",
+    "title": "NIR fruit scanning",
+    "section": "Scanning procedure",
+    "text": "Scanning procedure",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "NIR fruit scanning"
+    ]
+  },
+  {
+    "objectID": "protocols/nir-scanning.html#exporting-and-storing-scans",
+    "href": "protocols/nir-scanning.html#exporting-and-storing-scans",
+    "title": "NIR fruit scanning",
+    "section": "Exporting and storing scans",
+    "text": "Exporting and storing scans",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "NIR fruit scanning"
     ]
   },
   {
@@ -408,88 +702,6 @@
     ]
   },
   {
-    "objectID": "naming/index.html",
-    "href": "naming/index.html",
-    "title": "Naming conventions",
-    "section": "",
-    "text": "Draft. Write this page, then delete this note.\n\n\n\nWhy consistent names matter and a quick reference to the pages below.\n\n\n\n Back to top",
-    "crumbs": [
-      "Home",
-      "Naming conventions"
-    ]
-  },
-  {
-    "objectID": "naming/breeding-nomenclature.html",
-    "href": "naming/breeding-nomenclature.html",
-    "title": "Breeding nomenclature",
-    "section": "",
-    "text": "Draft. Write this page, then delete this note.",
-    "crumbs": [
-      "Home",
-      "Naming conventions",
-      "Breeding nomenclature"
-    ]
-  },
-  {
-    "objectID": "naming/breeding-nomenclature.html#season-and-crop-codes",
-    "href": "naming/breeding-nomenclature.html#season-and-crop-codes",
-    "title": "Breeding nomenclature",
-    "section": "Season and crop codes",
-    "text": "Season and crop codes",
-    "crumbs": [
-      "Home",
-      "Naming conventions",
-      "Breeding nomenclature"
-    ]
-  },
-  {
-    "objectID": "naming/breeding-nomenclature.html#family-naming",
-    "href": "naming/breeding-nomenclature.html#family-naming",
-    "title": "Breeding nomenclature",
-    "section": "Family naming",
-    "text": "Family naming",
-    "crumbs": [
-      "Home",
-      "Naming conventions",
-      "Breeding nomenclature"
-    ]
-  },
-  {
-    "objectID": "naming/breeding-nomenclature.html#elite-line-graduation",
-    "href": "naming/breeding-nomenclature.html#elite-line-graduation",
-    "title": "Breeding nomenclature",
-    "section": "Elite line graduation",
-    "text": "Elite line graduation",
-    "crumbs": [
-      "Home",
-      "Naming conventions",
-      "Breeding nomenclature"
-    ]
-  },
-  {
-    "objectID": "naming/breeding-nomenclature.html#recurrent-selection-populations",
-    "href": "naming/breeding-nomenclature.html#recurrent-selection-populations",
-    "title": "Breeding nomenclature",
-    "section": "Recurrent selection populations",
-    "text": "Recurrent selection populations",
-    "crumbs": [
-      "Home",
-      "Naming conventions",
-      "Breeding nomenclature"
-    ]
-  },
-  {
-    "objectID": "computing/index.html",
-    "href": "computing/index.html",
-    "title": "Data & computing",
-    "section": "",
-    "text": "Draft. Write this page, then delete this note.\n\n\n\nStart with Where data lives, then read the page for whichever system you are using.\n\n\n\n Back to top",
-    "crumbs": [
-      "Home",
-      "Data & computing"
-    ]
-  },
-  {
     "objectID": "computing/varcall-pipeline.html",
     "href": "computing/varcall-pipeline.html",
     "title": "Variant calling pipeline",
@@ -610,66 +822,6 @@
     ]
   },
   {
-    "objectID": "computing/nextcloud.html",
-    "href": "computing/nextcloud.html",
-    "title": "Nextcloud",
-    "section": "",
-    "text": "Draft. Write this page, then delete this note.",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Nextcloud"
-    ]
-  },
-  {
-    "objectID": "computing/nextcloud.html#folder-structure",
-    "href": "computing/nextcloud.html#folder-structure",
-    "title": "Nextcloud",
-    "section": "Folder structure",
-    "text": "Folder structure",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Nextcloud"
-    ]
-  },
-  {
-    "objectID": "computing/nextcloud.html#tablet-app-passwords",
-    "href": "computing/nextcloud.html#tablet-app-passwords",
-    "title": "Nextcloud",
-    "section": "Tablet app passwords",
-    "text": "Tablet app passwords",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Nextcloud"
-    ]
-  },
-  {
-    "objectID": "computing/nextcloud.html#bulk-upload-with-rclone",
-    "href": "computing/nextcloud.html#bulk-upload-with-rclone",
-    "title": "Nextcloud",
-    "section": "Bulk upload with rclone",
-    "text": "Bulk upload with rclone",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Nextcloud"
-    ]
-  },
-  {
-    "objectID": "computing/nextcloud.html#pushing-lab-pc-files",
-    "href": "computing/nextcloud.html#pushing-lab-pc-files",
-    "title": "Nextcloud",
-    "section": "Pushing lab PC files",
-    "text": "Pushing lab PC files",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Nextcloud"
-    ]
-  },
-  {
     "objectID": "computing/where-data-lives.html",
     "href": "computing/where-data-lives.html",
     "title": "Where data lives",
@@ -730,241 +882,76 @@
     ]
   },
   {
-    "objectID": "computing/hpc.html",
-    "href": "computing/hpc.html",
-    "title": "Premise HPC",
+    "objectID": "naming/controlled-vocab.html",
+    "href": "naming/controlled-vocab.html",
+    "title": "Controlled vocabulary",
     "section": "",
-    "text": "Draft. Write this page, then delete this note.",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Premise HPC"
-    ]
-  },
-  {
-    "objectID": "computing/hpc.html#logging-in",
-    "href": "computing/hpc.html#logging-in",
-    "title": "Premise HPC",
-    "section": "Logging in",
-    "text": "Logging in",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Premise HPC"
-    ]
-  },
-  {
-    "objectID": "computing/hpc.html#submitting-jobs-with-slurm",
-    "href": "computing/hpc.html#submitting-jobs-with-slurm",
-    "title": "Premise HPC",
-    "section": "Submitting jobs with SLURM",
-    "text": "Submitting jobs with SLURM",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Premise HPC"
-    ]
-  },
-  {
-    "objectID": "computing/hpc.html#the-lab-partition",
-    "href": "computing/hpc.html#the-lab-partition",
-    "title": "Premise HPC",
-    "section": "The lab partition",
-    "text": "The lab partition",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Premise HPC"
-    ]
-  },
-  {
-    "objectID": "computing/hpc.html#sharedgeno-layout",
-    "href": "computing/hpc.html#sharedgeno-layout",
-    "title": "Premise HPC",
-    "section": "shared/geno layout",
-    "text": "shared/geno layout",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Premise HPC"
-    ]
-  },
-  {
-    "objectID": "computing/hpc.html#your-project-folders",
-    "href": "computing/hpc.html#your-project-folders",
-    "title": "Premise HPC",
-    "section": "Your project folders",
-    "text": "Your project folders",
-    "crumbs": [
-      "Home",
-      "Data & computing",
-      "Premise HPC"
-    ]
-  },
-  {
-    "objectID": "naming/trait-short-names.html",
-    "href": "naming/trait-short-names.html",
-    "title": "Trait short names",
-    "section": "",
-    "text": "Draft. Write this page, then delete this note.",
+    "text": "Market class codes are used in elite line and family codes (see Breeding nomenclature).\n\nCodes are 2 or 3 uppercase letters.\nNo 3-letter code may start with H or F, since those letters mark hybrids and families.\nAdd a new code to this table before using it.\n\n\n\n\nSpecies\nMarket class\nCode\n\n\n\n\nCucurbita pepo\nAcorn\nAC\n\n\nCucurbita pepo\nPumpkin\nPU\n\n\nCucurbita pepo\nSeed\nSP\n\n\nCucurbita pepo\nStriped\nSTP\n\n\nCucurbita pepo\nSummer\nSS\n\n\nCucurbita pepo\nZucchini\nZUC\n\n\nCucurbita pepo\nMisc\nPEP\n\n\nCucurbita moschata\nButternut\nBN\n\n\nCucurbita moschata\nRound\nRND\n\n\nCucurbita moschata\nProcessors\nMOP\n\n\nCucurbita moschata\nMisc\nMOS\n\n\nCucurbita maxima\nKabocha\nKA\n\n\nCucurbita maxima\nProcessors\nMXP\n\n\nCucurbita maxima\nMisc\nMAX\n\n\nCucurbita maxima\nPumpkin\nMPU\n\n\nC. maxima × C. moschata\nTetsukabuto\nTET\n\n\nC. maxima × C. moschata\nProcessors\nISP\n\n\nOther interspecific\nMisc\nIS\n\n\nCucumis melo\nMelon\nMEL",
     "crumbs": [
       "Home",
       "Naming conventions",
-      "Trait short names"
+      "Controlled vocabulary"
     ]
   },
   {
-    "objectID": "naming/trait-short-names.html#where-the-list-comes-from",
-    "href": "naming/trait-short-names.html#where-the-list-comes-from",
-    "title": "Trait short names",
-    "section": "Where the list comes from",
-    "text": "Where the list comes from",
+    "objectID": "naming/controlled-vocab.html#market-class",
+    "href": "naming/controlled-vocab.html#market-class",
+    "title": "Controlled vocabulary",
+    "section": "",
+    "text": "Market class codes are used in elite line and family codes (see Breeding nomenclature).\n\nCodes are 2 or 3 uppercase letters.\nNo 3-letter code may start with H or F, since those letters mark hybrids and families.\nAdd a new code to this table before using it.\n\n\n\n\nSpecies\nMarket class\nCode\n\n\n\n\nCucurbita pepo\nAcorn\nAC\n\n\nCucurbita pepo\nPumpkin\nPU\n\n\nCucurbita pepo\nSeed\nSP\n\n\nCucurbita pepo\nStriped\nSTP\n\n\nCucurbita pepo\nSummer\nSS\n\n\nCucurbita pepo\nZucchini\nZUC\n\n\nCucurbita pepo\nMisc\nPEP\n\n\nCucurbita moschata\nButternut\nBN\n\n\nCucurbita moschata\nRound\nRND\n\n\nCucurbita moschata\nProcessors\nMOP\n\n\nCucurbita moschata\nMisc\nMOS\n\n\nCucurbita maxima\nKabocha\nKA\n\n\nCucurbita maxima\nProcessors\nMXP\n\n\nCucurbita maxima\nMisc\nMAX\n\n\nCucurbita maxima\nPumpkin\nMPU\n\n\nC. maxima × C. moschata\nTetsukabuto\nTET\n\n\nC. maxima × C. moschata\nProcessors\nISP\n\n\nOther interspecific\nMisc\nIS\n\n\nCucumis melo\nMelon\nMEL",
     "crumbs": [
       "Home",
       "Naming conventions",
-      "Trait short names"
+      "Controlled vocabulary"
     ]
   },
   {
-    "objectID": "naming/trait-short-names.html#the-list",
-    "href": "naming/trait-short-names.html#the-list",
-    "title": "Trait short names",
-    "section": "The list",
-    "text": "The list",
+    "objectID": "naming/breeding/index.html",
+    "href": "naming/breeding/index.html",
+    "title": "Breeding nomenclature",
+    "section": "",
+    "text": "This page covers the parts every code is built from, with a quick reference of example IDs. The pages that follow explain each type in detail.",
     "crumbs": [
       "Home",
       "Naming conventions",
-      "Trait short names"
+      "Breeding nomenclature"
     ]
   },
   {
-    "objectID": "naming/trait-short-names.html#adding-a-new-trait",
-    "href": "naming/trait-short-names.html#adding-a-new-trait",
-    "title": "Trait short names",
-    "section": "Adding a new trait",
-    "text": "Adding a new trait",
+    "objectID": "naming/breeding/index.html#building-blocks",
+    "href": "naming/breeding/index.html#building-blocks",
+    "title": "Breeding nomenclature",
+    "section": "Building blocks",
+    "text": "Building blocks\nNew IDs for breeding material are based off of the table below.\n\n\n\n\n\n\n\n\n\n\nPart\nAbbreviation\nFormat\nMeaning\nExample\n\n\n\n\nYear\n[YY]\n2 digits\nYear of the season (see below)\n27\n\n\nSeason\n[S]\n1 digit\n1 = winter, 2 = summer, 3 = fall\n2\n\n\nAccession type\nH or F\n1 letter, or nothing\nNothing = elite inbred, H = elite hybrid, F = family\nH\n\n\nMarket class\n[MC]\n2 or 3 letters\nFrom the controlled vocabulary\nPU\n\n\nCounter\n[####]\n4 digits, zero-padded\nSequence number within the year\n0005\n\n\n\n\nYear and season\nThe year and season part of the code is used to provide information on when material is derived. See specific rules below.\n\nA winter season that crosses New Year takes the year it ends: December 2026 to March 2027 is 271.\nThis keeps codes in calendar order: 262 (summer 2026), 271 (winter 2026 to 2027), 272 (summer 2027), 273 (fall 2027, late-summer finished before the New Year).\n\nWhat the year and season record depends on the code:\n\n\n\nAccession Type\nYear and season record\n\n\n\n\nElite inbred or hybrid\nFirst season the line was in an elite trial\n\n\nFamily prefix\nFirst season the F1 seed was planted\n\n\nCross ID\nYear only: the year the cross was made\n\n\n\n\n\nMarket class\n\n2 or 3 letters, from the controlled vocabulary. \nNo 3-letter code may start with H or F. Otherwise 262HUB0001 could be an elite inbred of class HUB or an elite hybrid of class UB.\n\n\n\nCounter\n\nCounts per market class, per year. It does not restart between seasons: if 271PU0003 exists, the next pumpkin inbred coded in 2027 is 0004, whether that’s in summer (272PU0004) or fall (273PU0004).\nInbreds, hybrids and families keep separate counters. 272PU0005, 272HPU0005 and 272FPU0005 can all exist and are unrelated.",
     "crumbs": [
       "Home",
       "Naming conventions",
-      "Trait short names"
+      "Breeding nomenclature"
     ]
   },
   {
-    "objectID": "getting-started/index.html",
-    "href": "getting-started/index.html",
-    "title": "Getting started",
-    "section": "",
-    "text": "Draft. Write this page, then delete this note.\nWhat a new lab member should read first, in order.",
+    "objectID": "naming/breeding/index.html#quick-reference",
+    "href": "naming/breeding/index.html#quick-reference",
+    "title": "Breeding nomenclature",
+    "section": "Quick reference",
+    "text": "Quick reference",
     "crumbs": [
       "Home",
-      "Getting started"
+      "Naming conventions",
+      "Breeding nomenclature"
     ]
   },
   {
-    "objectID": "getting-started/index.html#first-week-checklist",
-    "href": "getting-started/index.html#first-week-checklist",
-    "title": "Getting started",
-    "section": "First week checklist",
-    "text": "First week checklist\n\nRequest accounts (see Accounts and access)\nRead the naming conventions\nRead where data lives\nClone this repo and preview the site locally (Contributing)",
+    "objectID": "naming/breeding/index.html#quick-reference-1",
+    "href": "naming/breeding/index.html#quick-reference-1",
+    "title": "Breeding nomenclature",
+    "section": "Quick reference",
+    "text": "Quick reference\n\n\n\n\n\n\n\n\n\nMaterial\nPattern\nExample\nReads as\n\n\n\n\nCross\n[YY][trial]X[###]\n23HCX001\n1st cross in the 23HC crossing trial\n\n\nTest cross\n[YY][trial]X[###]\n\nA cross made in a trial with TC in its name\n\n\nF1 family\n[YY][S]F[MC][####]-#\n232FAC0001-1\nF1 from cross 23HCX001; first planted summer 2023\n\n\nSelfed generations\n-# per selfed plant\n232FAC0001-1-5-6-8\nF4: plants 5, 6, then 8 selfed\n\n\nPlot bulk\n-P#\n232FAC0001-1-P8\nF2 seed bulked from plot 8 of F1 plants\n\n\nFruit\nF# after the plant or plot\n232FAC0001-1-5-6-8F2\nSeed from fruit 2 of selfed plant 8\n\n\nHybrid-derived family\n-H-# instead of -#\n242FPU0001-H-1\nSelfed commercial hybrid (cross 24PUX001); treat as an F2\n\n\nBackcross\n-BF# or -BM#\n231FPU0001-1-BM5-BM10-BM6-7\nThree backcrosses to the male parent, then one self\n\n\nElite inbred\n[YY][S][MC][####]\n272PU0005\n5th pumpkin inbred coded in 2027; first elite trial summer 2027\n\n\nElite hybrid\n[YY][S]H[MC][####]\n232HPU0010\n10th pumpkin hybrid coded in 2023; first elite trial summer 2023\n\n\nShared seed\nNH + elite code\nNH272PU0005\n272PU0005 as sent outside the program\n\n\nSeedlot (non-commercial)\n[accession]_[trial]-[plot]-[plant]-[fruit]\nPuritanBN_15881_242INCBLK4-019-1\nPlant 1, plot 19, trial 242INCBLK4; plant and fruit are optional\n\n\nSeedlot (commercial)\n[accession]_[YY]C[#]\nSpicy_Mocha_23C1\nFirst Spicy_Mocha packet received in 2023",
     "crumbs": [
       "Home",
-      "Getting started"
+      "Naming conventions",
+      "Breeding nomenclature"
     ]
-  },
-  {
-    "objectID": "contributing/index.html",
-    "href": "contributing/index.html",
-    "title": "Contributing",
-    "section": "",
-    "text": "Anyone in the lab can edit this site. Small fixes can be made in the browser on GitHub. Bigger changes are easier on your own computer.",
-    "crumbs": [
-      "Home",
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contributing/index.html#quick-fix-in-the-browser",
-    "href": "contributing/index.html#quick-fix-in-the-browser",
-    "title": "Contributing",
-    "section": "Quick fix in the browser",
-    "text": "Quick fix in the browser\nClick Edit this page (under the table of contents on the right) on any page. GitHub opens the source file. Make the change and open a pull request. The site rebuilds after the pull request is merged into main.",
-    "crumbs": [
-      "Home",
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contributing/index.html#working-on-your-own-computer",
-    "href": "contributing/index.html#working-on-your-own-computer",
-    "title": "Contributing",
-    "section": "Working on your own computer",
-    "text": "Working on your own computer\n\nInstall Quarto. RStudio and Positron already include it.\nClone this repository.\nFrom the repository folder, run:\n\nquarto preview\nThe site opens in your browser and reloads every time you save a file.",
-    "crumbs": [
-      "Home",
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contributing/index.html#adding-a-page",
-    "href": "contributing/index.html#adding-a-page",
-    "title": "Contributing",
-    "section": "Adding a page",
-    "text": "Adding a page\n\nCopy _templates/page.qmd into the folder for the section it belongs in, for example protocols/fruit-firmness.qmd. Use lowercase file names with hyphens.\nFill in title, description, and order at the top of the file.\nSave. The page appears in the sidebar on its own. You do not need to edit _quarto.yml.\n\nTo add a whole new section, make a new folder containing an index.qmd. That page’s title becomes the sidebar heading, and its order sets where the section appears.",
-    "crumbs": [
-      "Home",
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contributing/index.html#images",
-    "href": "contributing/index.html#images",
-    "title": "Contributing",
-    "section": "Images",
-    "text": "Images\nPut images in an images/ folder inside the section and always write alt text. See Quarto syntax for the format.",
-    "crumbs": [
-      "Home",
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contributing/index.html#pages-that-run-code",
-    "href": "contributing/index.html#pages-that-run-code",
-    "title": "Contributing",
-    "section": "Pages that run code",
-    "text": "Pages that run code\nIf a page runs R or Python code, render it on your computer before pushing (quarto render path/to/page.qmd) and commit the _freeze/ folder along with your page. The GitHub build reuses those stored results and never runs your code, so it does not need R, Python, or your packages.",
-    "crumbs": [
-      "Home",
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contributing/index.html#submitting-changes",
-    "href": "contributing/index.html#submitting-changes",
-    "title": "Contributing",
-    "section": "Submitting changes",
-    "text": "Submitting changes\ngit switch -c fix-nextcloud-page     # new branch\n# ...edit, preview, save...\ngit add .\ngit commit -m \"Update Nextcloud folder structure\"\ngit push -u origin fix-nextcloud-page\nThen open a pull request on GitHub. Once it is merged into main, the site publishes in a few minutes.",
-    "crumbs": [
-      "Home",
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contributing/index.html#writing-guidelines",
-    "href": "contributing/index.html#writing-guidelines",
-    "title": "Contributing",
-    "section": "Writing guidelines",
-    "text": "Writing guidelines\n\nOne topic per page.\nWrite steps that someone new can follow without asking you.\nLink to the source of truth (Breedbase, a pipeline’s own repository) instead of copying details that change.\nIf a step has a common failure, add a Troubleshooting section rather than burying it in the steps.",
-    "crumbs": [
-      "Home",
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "UNH Cucurbit Lab Docs",
-    "section": "",
-    "text": "This site holds the lab’s working documentation. For information about the UNH Cucurbit Breeding program’s research and breeding efforts please visit our lab’s main website at unhcucurbits.org\n\n\nGetting started\nNew to the lab? Accounts, access, and your first week.\n\n\nBreedbase\nHow to use the lab Breedbase instance.\n\n\nNaming conventions\nNaming conventions for lines, crosses, seedlots, traits etc.\n\n\nProtocols\nWet lab and phenotyping procedures.\n\n\nData & computing\nWhere data lives, Nextcloud, the HPC, pipelines, and cucurbitr.\n\n\nContributing\nHow to add or fix a page, and the Quarto syntax we use.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "breedbase/trials.html",
@@ -1023,17 +1010,6 @@
     "crumbs": [
       "Home",
       "Breedbase"
-    ]
-  },
-  {
-    "objectID": "protocols/index.html",
-    "href": "protocols/index.html",
-    "title": "Protocols",
-    "section": "",
-    "text": "Draft. Write this page, then delete this note.\n\n\n\nProtocols are written so someone new can follow them without asking. Use the page template for new ones.\n\n\n\n Back to top",
-    "crumbs": [
-      "Home",
-      "Protocols"
     ]
   }
 ]
