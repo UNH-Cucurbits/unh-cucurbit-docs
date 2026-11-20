@@ -1,0 +1,1039 @@
+[
+  {
+    "objectID": "breedbase/record-types.html",
+    "href": "breedbase/record-types.html",
+    "title": "Accessions, seedlots, and crosses",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Accessions, seedlots, and crosses"
+    ]
+  },
+  {
+    "objectID": "breedbase/record-types.html#accessions",
+    "href": "breedbase/record-types.html#accessions",
+    "title": "Accessions, seedlots, and crosses",
+    "section": "Accessions",
+    "text": "Accessions",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Accessions, seedlots, and crosses"
+    ]
+  },
+  {
+    "objectID": "breedbase/record-types.html#seedlots",
+    "href": "breedbase/record-types.html#seedlots",
+    "title": "Accessions, seedlots, and crosses",
+    "section": "Seedlots",
+    "text": "Seedlots",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Accessions, seedlots, and crosses"
+    ]
+  },
+  {
+    "objectID": "breedbase/record-types.html#crosses",
+    "href": "breedbase/record-types.html#crosses",
+    "title": "Accessions, seedlots, and crosses",
+    "section": "Crosses",
+    "text": "Crosses",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Accessions, seedlots, and crosses"
+    ]
+  },
+  {
+    "objectID": "breedbase/record-types.html#how-they-link",
+    "href": "breedbase/record-types.html#how-they-link",
+    "title": "Accessions, seedlots, and crosses",
+    "section": "How they link",
+    "text": "How they link",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Accessions, seedlots, and crosses"
+    ]
+  },
+  {
+    "objectID": "breedbase/index.html",
+    "href": "breedbase/index.html",
+    "title": "Breedbase",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.\n\n\n\nOverview of the lab’s Breedbase instance and what goes into it.\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Breedbase"
+    ]
+  },
+  {
+    "objectID": "getting-started/accounts.html",
+    "href": "getting-started/accounts.html",
+    "title": "Accounts and access",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Getting started",
+      "Accounts and access"
+    ]
+  },
+  {
+    "objectID": "getting-started/accounts.html#microsoft-teams",
+    "href": "getting-started/accounts.html#microsoft-teams",
+    "title": "Accounts and access",
+    "section": "Microsoft Teams",
+    "text": "Microsoft Teams",
+    "crumbs": [
+      "Home",
+      "Getting started",
+      "Accounts and access"
+    ]
+  },
+  {
+    "objectID": "getting-started/accounts.html#breedbase",
+    "href": "getting-started/accounts.html#breedbase",
+    "title": "Accounts and access",
+    "section": "Breedbase",
+    "text": "Breedbase",
+    "crumbs": [
+      "Home",
+      "Getting started",
+      "Accounts and access"
+    ]
+  },
+  {
+    "objectID": "getting-started/accounts.html#nextcloud",
+    "href": "getting-started/accounts.html#nextcloud",
+    "title": "Accounts and access",
+    "section": "Nextcloud",
+    "text": "Nextcloud",
+    "crumbs": [
+      "Home",
+      "Getting started",
+      "Accounts and access"
+    ]
+  },
+  {
+    "objectID": "getting-started/accounts.html#premise-hpc",
+    "href": "getting-started/accounts.html#premise-hpc",
+    "title": "Accounts and access",
+    "section": "Premise HPC",
+    "text": "Premise HPC",
+    "crumbs": [
+      "Home",
+      "Getting started",
+      "Accounts and access"
+    ]
+  },
+  {
+    "objectID": "getting-started/accounts.html#github",
+    "href": "getting-started/accounts.html#github",
+    "title": "Accounts and access",
+    "section": "GitHub",
+    "text": "GitHub",
+    "crumbs": [
+      "Home",
+      "Getting started",
+      "Accounts and access"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UNH Cucurbit Lab Docs",
+    "section": "",
+    "text": "This site holds the lab’s working documentation. For information about the UNH Cucurbit Breeding program’s research and breeding efforts please visit our lab’s main website at unhcucurbits.org\n\n\nGetting started\nNew to the lab? Accounts, access, and your first week.\n\n\nBreedbase\nHow to use the lab Breedbase instance.\n\n\nNaming conventions\nNaming conventions for lines, crosses, seedlots, traits etc.\n\n\nProtocols\nWet lab and phenotyping procedures.\n\n\nData & computing\nWhere data lives, Nextcloud, the HPC, pipelines, and cucurbitr.\n\n\nContributing\nHow to add or fix a page, and the Quarto syntax we use.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "naming/index.html",
+    "href": "naming/index.html",
+    "title": "Naming conventions",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.\n\n\n\nWhy consistent names matter and a quick reference to the pages below.\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Naming conventions"
+    ]
+  },
+  {
+    "objectID": "protocols/nir-scanning.html",
+    "href": "protocols/nir-scanning.html",
+    "title": "NIR fruit scanning",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "NIR fruit scanning"
+    ]
+  },
+  {
+    "objectID": "protocols/nir-scanning.html#equipment-and-app-setup",
+    "href": "protocols/nir-scanning.html#equipment-and-app-setup",
+    "title": "NIR fruit scanning",
+    "section": "Equipment and app setup",
+    "text": "Equipment and app setup",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "NIR fruit scanning"
+    ]
+  },
+  {
+    "objectID": "protocols/nir-scanning.html#scanning-procedure",
+    "href": "protocols/nir-scanning.html#scanning-procedure",
+    "title": "NIR fruit scanning",
+    "section": "Scanning procedure",
+    "text": "Scanning procedure",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "NIR fruit scanning"
+    ]
+  },
+  {
+    "objectID": "protocols/nir-scanning.html#exporting-and-storing-scans",
+    "href": "protocols/nir-scanning.html#exporting-and-storing-scans",
+    "title": "NIR fruit scanning",
+    "section": "Exporting and storing scans",
+    "text": "Exporting and storing scans",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "NIR fruit scanning"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html",
+    "href": "protocols/seed-dna-extraction.html",
+    "title": "Seed DNA extraction",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#materials",
+    "href": "protocols/seed-dna-extraction.html#materials",
+    "title": "Seed DNA extraction",
+    "section": "Materials",
+    "text": "Materials",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#choosing-where-to-sample-the-seed",
+    "href": "protocols/seed-dna-extraction.html#choosing-where-to-sample-the-seed",
+    "title": "Seed DNA extraction",
+    "section": "Choosing where to sample the seed",
+    "text": "Choosing where to sample the seed",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#grinding",
+    "href": "protocols/seed-dna-extraction.html#grinding",
+    "title": "Seed DNA extraction",
+    "section": "Grinding",
+    "text": "Grinding",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#extraction",
+    "href": "protocols/seed-dna-extraction.html#extraction",
+    "title": "Seed DNA extraction",
+    "section": "Extraction",
+    "text": "Extraction",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "protocols/seed-dna-extraction.html#qc-and-expected-yields",
+    "href": "protocols/seed-dna-extraction.html#qc-and-expected-yields",
+    "title": "Seed DNA extraction",
+    "section": "QC and expected yields",
+    "text": "QC and expected yields",
+    "crumbs": [
+      "Home",
+      "Protocols",
+      "Seed DNA extraction"
+    ]
+  },
+  {
+    "objectID": "computing/where-data-lives.html",
+    "href": "computing/where-data-lives.html",
+    "title": "Where data lives",
+    "section": "",
+    "text": "Draft. Check the diagram, write the rest, then delete this note.\nflowchart LR\n  FB[Field Book tablets] --&gt; NC[Nextcloud]\n  LAB[Lab instrument files] --&gt; NC\n  NC --&gt; BB[(Breedbase)]\n  BB --&gt; BK[Backups]\n  SEQ[Sequencing data] --&gt; GENO[(HPC shared/geno)]",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Where data lives"
+    ]
+  },
+  {
+    "objectID": "computing/where-data-lives.html#phenotype-data",
+    "href": "computing/where-data-lives.html#phenotype-data",
+    "title": "Where data lives",
+    "section": "Phenotype data",
+    "text": "Phenotype data",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Where data lives"
+    ]
+  },
+  {
+    "objectID": "computing/where-data-lives.html#genotype-data",
+    "href": "computing/where-data-lives.html#genotype-data",
+    "title": "Where data lives",
+    "section": "Genotype data",
+    "text": "Genotype data",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Where data lives"
+    ]
+  },
+  {
+    "objectID": "computing/where-data-lives.html#backups",
+    "href": "computing/where-data-lives.html#backups",
+    "title": "Where data lives",
+    "section": "Backups",
+    "text": "Backups",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Where data lives"
+    ]
+  },
+  {
+    "objectID": "computing/where-data-lives.html#what-never-goes-where",
+    "href": "computing/where-data-lives.html#what-never-goes-where",
+    "title": "Where data lives",
+    "section": "What never goes where",
+    "text": "What never goes where",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Where data lives"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html",
+    "href": "computing/nextcloud.html",
+    "title": "Nextcloud",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html#folder-structure",
+    "href": "computing/nextcloud.html#folder-structure",
+    "title": "Nextcloud",
+    "section": "Folder structure",
+    "text": "Folder structure",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html#tablet-app-passwords",
+    "href": "computing/nextcloud.html#tablet-app-passwords",
+    "title": "Nextcloud",
+    "section": "Tablet app passwords",
+    "text": "Tablet app passwords",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html#bulk-upload-with-rclone",
+    "href": "computing/nextcloud.html#bulk-upload-with-rclone",
+    "title": "Nextcloud",
+    "section": "Bulk upload with rclone",
+    "text": "Bulk upload with rclone",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "computing/nextcloud.html#pushing-lab-pc-files",
+    "href": "computing/nextcloud.html#pushing-lab-pc-files",
+    "title": "Nextcloud",
+    "section": "Pushing lab PC files",
+    "text": "Pushing lab PC files",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Nextcloud"
+    ]
+  },
+  {
+    "objectID": "computing/index.html",
+    "href": "computing/index.html",
+    "title": "Data & computing",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.\n\n\n\nStart with Where data lives, then read the page for whichever system you are using.\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Data & computing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html",
+    "href": "contributing/index.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "Anyone in the lab can edit this site. Small fixes can be made in the browser on GitHub. Bigger changes are easier on your own computer.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#quick-fix-in-the-browser",
+    "href": "contributing/index.html#quick-fix-in-the-browser",
+    "title": "Contributing",
+    "section": "Quick fix in the browser",
+    "text": "Quick fix in the browser\nClick Edit this page (under the table of contents on the right) on any page. GitHub opens the source file. Make the change and open a pull request. The site rebuilds after the pull request is merged into main.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#working-on-your-own-computer",
+    "href": "contributing/index.html#working-on-your-own-computer",
+    "title": "Contributing",
+    "section": "Working on your own computer",
+    "text": "Working on your own computer\n\nInstall Quarto. RStudio and Positron already include it.\nClone this repository.\nFrom the repository folder, run:\n\nquarto preview\nThe site opens in your browser and reloads every time you save a file.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#adding-a-page",
+    "href": "contributing/index.html#adding-a-page",
+    "title": "Contributing",
+    "section": "Adding a page",
+    "text": "Adding a page\n\nCopy _templates/page.qmd into the folder for the section it belongs in, for example protocols/fruit-firmness.qmd. Use lowercase file names with hyphens.\nFill in title, description, and order at the top of the file.\nSave. The page appears in the sidebar on its own. You do not need to edit _quarto.yml.\n\nTo add a whole new section, make a new folder containing an index.qmd. That page’s title becomes the sidebar heading, and its order sets where the section appears.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#images",
+    "href": "contributing/index.html#images",
+    "title": "Contributing",
+    "section": "Images",
+    "text": "Images\nPut images in an images/ folder inside the section and always write alt text. See Quarto syntax for the format.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#pages-that-run-code",
+    "href": "contributing/index.html#pages-that-run-code",
+    "title": "Contributing",
+    "section": "Pages that run code",
+    "text": "Pages that run code\nIf a page runs R or Python code, render it on your computer before pushing (quarto render path/to/page.qmd) and commit the _freeze/ folder along with your page. The GitHub build reuses those stored results and never runs your code, so it does not need R, Python, or your packages.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#submitting-changes",
+    "href": "contributing/index.html#submitting-changes",
+    "title": "Contributing",
+    "section": "Submitting changes",
+    "text": "Submitting changes\ngit switch -c fix-nextcloud-page     # new branch\n# ...edit, preview, save...\ngit add .\ngit commit -m \"Update Nextcloud folder structure\"\ngit push -u origin fix-nextcloud-page\nThen open a pull request on GitHub. Once it is merged into main, the site publishes in a few minutes.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#writing-guidelines",
+    "href": "contributing/index.html#writing-guidelines",
+    "title": "Contributing",
+    "section": "Writing guidelines",
+    "text": "Writing guidelines\n\nOne topic per page.\nWrite steps that someone new can follow without asking you.\nLink to the source of truth (Breedbase, a pipeline’s own repository) instead of copying details that change.\nIf a step has a common failure, add a Troubleshooting section rather than burying it in the steps.",
+    "crumbs": [
+      "Home",
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contributing/quarto-syntax.html",
+    "href": "contributing/quarto-syntax.html",
+    "title": "Quarto syntax",
+    "section": "",
+    "text": "Everything here is regular Markdown plus a few Quarto additions. Each example shows the source, then what it looks like.",
+    "crumbs": [
+      "Home",
+      "Contributing",
+      "Quarto syntax"
+    ]
+  },
+  {
+    "objectID": "contributing/quarto-syntax.html#callouts",
+    "href": "contributing/quarto-syntax.html#callouts",
+    "title": "Quarto syntax",
+    "section": "Callouts",
+    "text": "Callouts\nFive types: note, tip, warning, important, caution.\n::: {.callout-tip}\n## Label tubes before grinding\nMarker rubs off once tubes are frozen.\n:::\n\n\n\n\n\n\nTipLabel tubes before grinding\n\n\n\nMarker rubs off once tubes are frozen.\n\n\nAdd collapse=\"true\" to make one that starts folded:\n::: {.callout-note collapse=\"true\"}\n## Why we do it this way\nBackground that most readers can skip.\n:::\n\n\n\n\n\n\nNoteWhy we do it this way\n\n\n\n\n\nBackground that most readers can skip.",
+    "crumbs": [
+      "Home",
+      "Contributing",
+      "Quarto syntax"
+    ]
+  },
+  {
+    "objectID": "contributing/quarto-syntax.html#tabs",
+    "href": "contributing/quarto-syntax.html#tabs",
+    "title": "Quarto syntax",
+    "section": "Tabs",
+    "text": "Tabs\nGood for instructions that differ by operating system or by crop.\n::: {.panel-tabset}\n## Windows\nUse WinSCP.\n\n## macOS / Linux\nUse rclone.\n:::\n\nWindowsmacOS / Linux\n\n\nUse WinSCP.\n\n\nUse rclone.",
+    "crumbs": [
+      "Home",
+      "Contributing",
+      "Quarto syntax"
+    ]
+  },
+  {
+    "objectID": "contributing/quarto-syntax.html#code-blocks",
+    "href": "contributing/quarto-syntax.html#code-blocks",
+    "title": "Quarto syntax",
+    "section": "Code blocks",
+    "text": "Code blocks\nName the language for syntax highlighting. Add a filename when it helps.\n```{.bash filename=\"Terminal\"}\nsbatch run_calling.sh\n```\n\n\nTerminal\n\nsbatch run_calling.sh",
+    "crumbs": [
+      "Home",
+      "Contributing",
+      "Quarto syntax"
+    ]
+  },
+  {
+    "objectID": "contributing/quarto-syntax.html#links-between-pages",
+    "href": "contributing/quarto-syntax.html#links-between-pages",
+    "title": "Quarto syntax",
+    "section": "Links between pages",
+    "text": "Links between pages\nLink to the .qmd file with a relative path. Quarto turns it into the right web address.\nSee [Nextcloud](../computing/nextcloud.qmd).\nJump to a heading: [shared/geno layout](../computing/hpc.qmd#sharedgeno-layout).",
+    "crumbs": [
+      "Home",
+      "Contributing",
+      "Quarto syntax"
+    ]
+  },
+  {
+    "objectID": "contributing/quarto-syntax.html#images",
+    "href": "contributing/quarto-syntax.html#images",
+    "title": "Quarto syntax",
+    "section": "Images",
+    "text": "Images\n![Seed chipping setup](images/seed-chipping.jpg){fig-alt=\"Razor blade, cutting surface, and labeled 2 mL tubes on a bench\" width=\"70%\"}\nThe text in [ ] is the caption. fig-alt is read by screen readers, so describe what is in the picture.",
+    "crumbs": [
+      "Home",
+      "Contributing",
+      "Quarto syntax"
+    ]
+  },
+  {
+    "objectID": "contributing/quarto-syntax.html#diagrams",
+    "href": "contributing/quarto-syntax.html#diagrams",
+    "title": "Quarto syntax",
+    "section": "Diagrams",
+    "text": "Diagrams\nQuarto draws Mermaid diagrams from plain text.\n```{mermaid}\nflowchart LR\n  A[Harvest] --&gt; B[Weigh] --&gt; C[NIR scan] --&gt; D[Upload]\n```\n\n\n\n\n\n\nflowchart LR\n  A[Harvest] --&gt; B[Weigh] --&gt; C[NIR scan] --&gt; D[Upload]",
+    "crumbs": [
+      "Home",
+      "Contributing",
+      "Quarto syntax"
+    ]
+  },
+  {
+    "objectID": "contributing/quarto-syntax.html#running-r-code",
+    "href": "contributing/quarto-syntax.html#running-r-code",
+    "title": "Quarto syntax",
+    "section": "Running R code",
+    "text": "Running R code\nA chunk with {r} runs when the page renders and shows its output. Remove engine: markdown from the page header if you add one, and commit _freeze/ afterwards (see Contributing).\n```{r}\n#| label: fig-yield\n#| fig-cap: \"Fruit weight by entry\"\nlibrary(ggplot2)\nggplot(pheno, aes(entry, fruit_wt)) + geom_boxplot()\n```\nTo show R code without running it, leave off the braces: ```r.",
+    "crumbs": [
+      "Home",
+      "Contributing",
+      "Quarto syntax"
+    ]
+  },
+  {
+    "objectID": "computing/varcall-pipeline.html",
+    "href": "computing/varcall-pipeline.html",
+    "title": "Variant calling pipeline",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Variant calling pipeline"
+    ]
+  },
+  {
+    "objectID": "computing/varcall-pipeline.html#what-it-does",
+    "href": "computing/varcall-pipeline.html#what-it-does",
+    "title": "Variant calling pipeline",
+    "section": "What it does",
+    "text": "What it does",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Variant calling pipeline"
+    ]
+  },
+  {
+    "objectID": "computing/varcall-pipeline.html#the-sample-manifest",
+    "href": "computing/varcall-pipeline.html#the-sample-manifest",
+    "title": "Variant calling pipeline",
+    "section": "The sample manifest",
+    "text": "The sample manifest",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Variant calling pipeline"
+    ]
+  },
+  {
+    "objectID": "computing/varcall-pipeline.html#run-modes",
+    "href": "computing/varcall-pipeline.html#run-modes",
+    "title": "Variant calling pipeline",
+    "section": "Run modes",
+    "text": "Run modes",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Variant calling pipeline"
+    ]
+  },
+  {
+    "objectID": "computing/varcall-pipeline.html#running-it",
+    "href": "computing/varcall-pipeline.html#running-it",
+    "title": "Variant calling pipeline",
+    "section": "Running it",
+    "text": "Running it",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Variant calling pipeline"
+    ]
+  },
+  {
+    "objectID": "computing/varcall-pipeline.html#outputs",
+    "href": "computing/varcall-pipeline.html#outputs",
+    "title": "Variant calling pipeline",
+    "section": "Outputs",
+    "text": "Outputs",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Variant calling pipeline"
+    ]
+  },
+  {
+    "objectID": "computing/cucurbitr.html",
+    "href": "computing/cucurbitr.html",
+    "title": "cucurbitr",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "cucurbitr"
+    ]
+  },
+  {
+    "objectID": "computing/cucurbitr.html#installing",
+    "href": "computing/cucurbitr.html#installing",
+    "title": "cucurbitr",
+    "section": "Installing",
+    "text": "Installing",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "cucurbitr"
+    ]
+  },
+  {
+    "objectID": "computing/cucurbitr.html#common-functions",
+    "href": "computing/cucurbitr.html#common-functions",
+    "title": "cucurbitr",
+    "section": "Common functions",
+    "text": "Common functions",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "cucurbitr"
+    ]
+  },
+  {
+    "objectID": "computing/cucurbitr.html#contributing-a-helper",
+    "href": "computing/cucurbitr.html#contributing-a-helper",
+    "title": "cucurbitr",
+    "section": "Contributing a helper",
+    "text": "Contributing a helper",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "cucurbitr"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html",
+    "href": "computing/hpc.html",
+    "title": "Premise HPC",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#logging-in",
+    "href": "computing/hpc.html#logging-in",
+    "title": "Premise HPC",
+    "section": "Logging in",
+    "text": "Logging in",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#submitting-jobs-with-slurm",
+    "href": "computing/hpc.html#submitting-jobs-with-slurm",
+    "title": "Premise HPC",
+    "section": "Submitting jobs with SLURM",
+    "text": "Submitting jobs with SLURM",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#the-lab-partition",
+    "href": "computing/hpc.html#the-lab-partition",
+    "title": "Premise HPC",
+    "section": "The lab partition",
+    "text": "The lab partition",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#sharedgeno-layout",
+    "href": "computing/hpc.html#sharedgeno-layout",
+    "title": "Premise HPC",
+    "section": "shared/geno layout",
+    "text": "shared/geno layout",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "computing/hpc.html#your-project-folders",
+    "href": "computing/hpc.html#your-project-folders",
+    "title": "Premise HPC",
+    "section": "Your project folders",
+    "text": "Your project folders",
+    "crumbs": [
+      "Home",
+      "Data & computing",
+      "Premise HPC"
+    ]
+  },
+  {
+    "objectID": "protocols/index.html",
+    "href": "protocols/index.html",
+    "title": "Protocols",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.\n\n\n\nProtocols are written so someone new can follow them without asking. Use the page template for new ones.\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Protocols"
+    ]
+  },
+  {
+    "objectID": "naming/breeding-nomenclature.html",
+    "href": "naming/breeding-nomenclature.html",
+    "title": "Breeding nomenclature",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Breeding nomenclature"
+    ]
+  },
+  {
+    "objectID": "naming/breeding-nomenclature.html#season-and-crop-codes",
+    "href": "naming/breeding-nomenclature.html#season-and-crop-codes",
+    "title": "Breeding nomenclature",
+    "section": "Season and crop codes",
+    "text": "Season and crop codes",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Breeding nomenclature"
+    ]
+  },
+  {
+    "objectID": "naming/breeding-nomenclature.html#family-naming",
+    "href": "naming/breeding-nomenclature.html#family-naming",
+    "title": "Breeding nomenclature",
+    "section": "Family naming",
+    "text": "Family naming",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Breeding nomenclature"
+    ]
+  },
+  {
+    "objectID": "naming/breeding-nomenclature.html#elite-line-graduation",
+    "href": "naming/breeding-nomenclature.html#elite-line-graduation",
+    "title": "Breeding nomenclature",
+    "section": "Elite line graduation",
+    "text": "Elite line graduation",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Breeding nomenclature"
+    ]
+  },
+  {
+    "objectID": "naming/breeding-nomenclature.html#recurrent-selection-populations",
+    "href": "naming/breeding-nomenclature.html#recurrent-selection-populations",
+    "title": "Breeding nomenclature",
+    "section": "Recurrent selection populations",
+    "text": "Recurrent selection populations",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Breeding nomenclature"
+    ]
+  },
+  {
+    "objectID": "naming/trait-short-names.html",
+    "href": "naming/trait-short-names.html",
+    "title": "Trait short names",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Trait short names"
+    ]
+  },
+  {
+    "objectID": "naming/trait-short-names.html#where-the-list-comes-from",
+    "href": "naming/trait-short-names.html#where-the-list-comes-from",
+    "title": "Trait short names",
+    "section": "Where the list comes from",
+    "text": "Where the list comes from",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Trait short names"
+    ]
+  },
+  {
+    "objectID": "naming/trait-short-names.html#the-list",
+    "href": "naming/trait-short-names.html#the-list",
+    "title": "Trait short names",
+    "section": "The list",
+    "text": "The list",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Trait short names"
+    ]
+  },
+  {
+    "objectID": "naming/trait-short-names.html#adding-a-new-trait",
+    "href": "naming/trait-short-names.html#adding-a-new-trait",
+    "title": "Trait short names",
+    "section": "Adding a new trait",
+    "text": "Adding a new trait",
+    "crumbs": [
+      "Home",
+      "Naming conventions",
+      "Trait short names"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html",
+    "href": "getting-started/index.html",
+    "title": "Getting started",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.\nWhat a new lab member should read first, in order.",
+    "crumbs": [
+      "Home",
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#first-week-checklist",
+    "href": "getting-started/index.html#first-week-checklist",
+    "title": "Getting started",
+    "section": "First week checklist",
+    "text": "First week checklist\n\nRequest accounts (see Accounts and access)\nRead the naming conventions\nRead where data lives\nClone this repo and preview the site locally (Contributing)",
+    "crumbs": [
+      "Home",
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "breedbase/field-book.html",
+    "href": "breedbase/field-book.html",
+    "title": "Field Book to Breedbase",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Field Book to Breedbase"
+    ]
+  },
+  {
+    "objectID": "breedbase/field-book.html#setting-up-a-tablet",
+    "href": "breedbase/field-book.html#setting-up-a-tablet",
+    "title": "Field Book to Breedbase",
+    "section": "Setting up a tablet",
+    "text": "Setting up a tablet",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Field Book to Breedbase"
+    ]
+  },
+  {
+    "objectID": "breedbase/field-book.html#collecting-data",
+    "href": "breedbase/field-book.html#collecting-data",
+    "title": "Field Book to Breedbase",
+    "section": "Collecting data",
+    "text": "Collecting data",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Field Book to Breedbase"
+    ]
+  },
+  {
+    "objectID": "breedbase/field-book.html#syncing-to-nextcloud",
+    "href": "breedbase/field-book.html#syncing-to-nextcloud",
+    "title": "Field Book to Breedbase",
+    "section": "Syncing to Nextcloud",
+    "text": "Syncing to Nextcloud",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Field Book to Breedbase"
+    ]
+  },
+  {
+    "objectID": "breedbase/field-book.html#loading-into-breedbase",
+    "href": "breedbase/field-book.html#loading-into-breedbase",
+    "title": "Field Book to Breedbase",
+    "section": "Loading into Breedbase",
+    "text": "Loading into Breedbase",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Field Book to Breedbase"
+    ]
+  },
+  {
+    "objectID": "breedbase/trials.html",
+    "href": "breedbase/trials.html",
+    "title": "Creating and uploading trials",
+    "section": "",
+    "text": "Draft. Write this page, then delete this note.",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Creating and uploading trials"
+    ]
+  },
+  {
+    "objectID": "breedbase/trials.html#trial-design",
+    "href": "breedbase/trials.html#trial-design",
+    "title": "Creating and uploading trials",
+    "section": "Trial design",
+    "text": "Trial design",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Creating and uploading trials"
+    ]
+  },
+  {
+    "objectID": "breedbase/trials.html#building-the-upload-file",
+    "href": "breedbase/trials.html#building-the-upload-file",
+    "title": "Creating and uploading trials",
+    "section": "Building the upload file",
+    "text": "Building the upload file",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Creating and uploading trials"
+    ]
+  },
+  {
+    "objectID": "breedbase/trials.html#uploading-and-checking",
+    "href": "breedbase/trials.html#uploading-and-checking",
+    "title": "Creating and uploading trials",
+    "section": "Uploading and checking",
+    "text": "Uploading and checking",
+    "crumbs": [
+      "Home",
+      "Breedbase",
+      "Creating and uploading trials"
+    ]
+  }
+]
