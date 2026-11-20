@@ -1,0 +1,19 @@
+---
+title: "Premise HPC"
+description: "Logging in, SLURM, the lab partition, and the shared/geno layout."
+order: 3
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+## Logging in
+
+## Submitting jobs with SLURM
+
+## The lab partition
+
+## shared/geno layout
+
+## Your project folders

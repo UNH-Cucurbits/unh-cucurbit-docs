@@ -1,0 +1,16 @@
+# Quarto build output and cache
+/.quarto/
+/_site/
+**/*.quarto_ipynb
+
+# Do NOT ignore /_freeze/ : it stores code results so CI doesn't need R/Python
+
+# R / RStudio / Positron
+.Rhistory
+.RData
+.Rproj.user/
+.positron/
+
+# OS
+.DS_Store
+Thumbs.db

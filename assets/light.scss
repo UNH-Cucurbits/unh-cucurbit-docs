@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+// Brand color. Swap for the official UNH blue if you want to match campus branding.
+$primary: #1f4e8c;
+
+// No external web fonts: the system font stack is fast and needs no Google Fonts call.
+$web-font-path: false;
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+
+// Light navbar instead of a solid color bar, for a cleaner look.
+$navbar-bg: #ffffff;
+$navbar-fg: #1f2933;
+$navbar-hl: $primary;
+
+// Flatly colors links teal by default; use the brand color instead.
+$link-color: $primary;
+$link-decoration: none;

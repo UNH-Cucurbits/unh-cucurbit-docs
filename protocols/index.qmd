@@ -1,0 +1,11 @@
+---
+title: "Protocols"
+description: "Wet lab and phenotyping procedures."
+order: 4
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+Protocols are written so someone new can follow them without asking. Use the [page template](../contributing/index.qmd#adding-a-page) for new ones.

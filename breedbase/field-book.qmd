@@ -1,0 +1,17 @@
+---
+title: "Field Book to Breedbase"
+description: "Collecting data on tablets and getting it into Breedbase."
+order: 3
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+## Setting up a tablet
+
+## Collecting data
+
+## Syncing to Nextcloud
+
+## Loading into Breedbase

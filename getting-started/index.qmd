@@ -1,0 +1,18 @@
+---
+title: "Getting started"
+description: "Start here if you are new to the lab."
+order: 1
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+What a new lab member should read first, in order.
+
+## First week checklist
+
+- [ ] Request accounts (see [Accounts and access](accounts.qmd))
+- [ ] Read the [naming conventions](../naming/index.qmd)
+- [ ] Read [where data lives](../computing/where-data-lives.qmd)
+- [ ] Clone this repo and preview the site locally ([Contributing](../contributing/index.qmd))

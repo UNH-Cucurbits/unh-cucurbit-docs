@@ -1,0 +1,15 @@
+---
+title: "NIR fruit scanning"
+description: "Scanning fruit with the NIR-S-G1 and PhenoApps."
+order: 2
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+## Equipment and app setup
+
+## Scanning procedure
+
+## Exporting and storing scans

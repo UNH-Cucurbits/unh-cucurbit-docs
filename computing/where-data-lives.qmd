@@ -1,0 +1,26 @@
+---
+title: "Where data lives"
+description: "The path data takes from the field and the lab to long-term storage."
+order: 1
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Check the diagram, write the rest, then delete this note.
+:::
+
+```{mermaid}
+flowchart LR
+  FB[Field Book tablets] --> NC[Nextcloud]
+  LAB[Lab instrument files] --> NC
+  NC --> BB[(Breedbase)]
+  BB --> BK[Backups]
+  SEQ[Sequencing data] --> GENO[(HPC shared/geno)]
+```
+
+## Phenotype data
+
+## Genotype data
+
+## Backups
+
+## What never goes where

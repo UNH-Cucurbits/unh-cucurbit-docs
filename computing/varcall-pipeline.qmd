@@ -1,0 +1,19 @@
+---
+title: "Variant calling pipeline"
+description: "Running varcall-pipelinev1 on Premise."
+order: 4
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+## What it does
+
+## The sample manifest
+
+## Run modes
+
+## Running it
+
+## Outputs

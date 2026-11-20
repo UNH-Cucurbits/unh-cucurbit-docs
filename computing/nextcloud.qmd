@@ -1,0 +1,17 @@
+---
+title: "Nextcloud"
+description: "Folder structure, app passwords, and bulk uploads."
+order: 2
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+## Folder structure
+
+## Tablet app passwords
+
+## Bulk upload with rclone
+
+## Pushing lab PC files

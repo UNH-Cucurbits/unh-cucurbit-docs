@@ -1,0 +1,19 @@
+---
+title: "Seed DNA extraction"
+description: "Sampling, grinding, and extracting DNA from pumpkin seed."
+order: 1
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+## Materials
+
+## Choosing where to sample the seed
+
+## Grinding
+
+## Extraction
+
+## QC and expected yields

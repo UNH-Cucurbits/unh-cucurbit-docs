@@ -1,0 +1,17 @@
+---
+title: "Accessions, seedlots, and crosses"
+description: "The three Breedbase record types and how they link."
+order: 1
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+## Accessions
+
+## Seedlots
+
+## Crosses
+
+## How they link

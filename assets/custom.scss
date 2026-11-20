@@ -1,0 +1,39 @@
+/*-- scss:rules --*/
+
+// Rules shared by the light and dark themes. Colors come from each theme's $primary.
+
+.navbar {
+  border-bottom: 1px solid rgba($primary, 0.15);
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+// Section cards on the home page
+.doc-card {
+  border: 1px solid rgba($primary, 0.25);
+  border-radius: 8px;
+  padding: 1rem 1.25rem 0.5rem;
+  transition: border-color 0.15s ease;
+
+  &:hover {
+    border-color: $primary;
+  }
+
+  h3 {
+    margin-top: 0;
+    font-size: 1.15rem;
+  }
+
+  p {
+    margin-bottom: 0.5rem;
+    opacity: 0.85;
+  }
+}
+
+// Slightly tighter sidebar
+.sidebar-navigation .sidebar-item {
+  font-size: 0.95rem;
+}

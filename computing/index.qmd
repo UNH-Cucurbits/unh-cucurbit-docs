@@ -1,0 +1,11 @@
+---
+title: "Data & computing"
+description: "Where data lives and the systems we use to work with it."
+order: 5
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+Start with [Where data lives](where-data-lives.qmd), then read the page for whichever system you are using.

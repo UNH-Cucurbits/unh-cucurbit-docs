@@ -1,0 +1,63 @@
+---
+title: "Contributing"
+description: "How to add or fix a page on this site."
+order: 6
+---
+
+Anyone in the lab can edit this site. Small fixes can be made in the browser on GitHub. Bigger changes are easier on your own computer.
+
+::: {.callout-important}
+## This site is public
+GitHub Pages sites can be read by anyone with the link. Never put passwords, app tokens, server addresses that should stay private, or unpublished data on any page.
+:::
+
+## Quick fix in the browser
+
+Click **Edit this page** (under the table of contents on the right) on any page. GitHub opens the source file. Make the change and open a pull request. The site rebuilds after the pull request is merged into `main`.
+
+## Working on your own computer
+
+1. Install [Quarto](https://quarto.org/docs/get-started/). RStudio and Positron already include it.
+2. Clone this repository.
+3. From the repository folder, run:
+
+```bash
+quarto preview
+```
+
+The site opens in your browser and reloads every time you save a file.
+
+## Adding a page
+
+1. Copy `_templates/page.qmd` into the folder for the section it belongs in, for example `protocols/fruit-firmness.qmd`. Use lowercase file names with hyphens.
+2. Fill in `title`, `description`, and `order` at the top of the file.
+3. Save. The page appears in the sidebar on its own. You do not need to edit `_quarto.yml`.
+
+To add a whole new section, make a new folder containing an `index.qmd`. That page's `title` becomes the sidebar heading, and its `order` sets where the section appears.
+
+## Images
+
+Put images in an `images/` folder inside the section and always write alt text. See [Quarto syntax](quarto-syntax.qmd#images) for the format.
+
+## Pages that run code
+
+If a page runs R or Python code, render it on your computer before pushing (`quarto render path/to/page.qmd`) and commit the `_freeze/` folder along with your page. The GitHub build reuses those stored results and never runs your code, so it does not need R, Python, or your packages.
+
+## Submitting changes
+
+```bash
+git switch -c fix-nextcloud-page     # new branch
+# ...edit, preview, save...
+git add .
+git commit -m "Update Nextcloud folder structure"
+git push -u origin fix-nextcloud-page
+```
+
+Then open a pull request on GitHub. Once it is merged into `main`, the site publishes in a few minutes.
+
+## Writing guidelines
+
+- One topic per page.
+- Write steps that someone new can follow without asking you.
+- Link to the source of truth (Breedbase, a pipeline's own repository) instead of copying details that change.
+- If a step has a common failure, add a **Troubleshooting** section rather than burying it in the steps.

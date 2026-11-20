@@ -1,0 +1,11 @@
+---
+title: "Naming conventions"
+description: "How we name things so records stay consistent across people and years."
+order: 3
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+Why consistent names matter and a quick reference to the pages below.

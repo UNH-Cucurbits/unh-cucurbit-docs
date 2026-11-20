@@ -1,0 +1,30 @@
+# Renders the site and publishes it to the gh-pages branch on every push to main.
+# One-time setup: run `quarto publish gh-pages` locally once (see README.md).
+
+name: Publish site
+
+on:
+  push:
+    branches: main
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      # Pages with R or Python code are not executed here; their results come
+      # from the committed _freeze/ folder.
+      - name: Render and publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

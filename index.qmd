@@ -1,0 +1,41 @@
+---
+title: "UNH Cucurbit Lab Docs"
+toc: false
+page-navigation: false
+---
+
+This site holds the lab's working documentation. For information about the UNH Cucurbit Breeding program's research and breeding efforts please visit our lab's main website at [unhcucurbits.org](https://unhcucurbits.org)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .doc-card}
+### [Getting started](getting-started/index.qmd)
+New to the lab? Accounts, access, and your first week.
+:::
+
+::: {.g-col-12 .g-col-md-6 .doc-card}
+### [Breedbase](breedbase/index.qmd)
+How to use the lab Breedbase instance.
+:::
+
+::: {.g-col-12 .g-col-md-6 .doc-card}
+### [Naming conventions](naming/index.qmd)
+Naming conventions for lines, crosses, seedlots, traits etc.
+:::
+
+::: {.g-col-12 .g-col-md-6 .doc-card}
+### [Protocols](protocols/index.qmd)
+Wet lab and phenotyping procedures.
+:::
+
+::: {.g-col-12 .g-col-md-6 .doc-card}
+### [Data & computing](computing/index.qmd)
+Where data lives, Nextcloud, the HPC, pipelines, and cucurbitr.
+:::
+
+::: {.g-col-12 .g-col-md-6 .doc-card}
+### [Contributing](contributing/index.qmd)
+How to add or fix a page, and the Quarto syntax we use.
+:::
+
+:::

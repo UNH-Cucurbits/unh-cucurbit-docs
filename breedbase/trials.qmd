@@ -1,0 +1,15 @@
+---
+title: "Creating and uploading trials"
+description: "Setting up field trials and upload files in Breedbase."
+order: 2
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+## Trial design
+
+## Building the upload file
+
+## Uploading and checking

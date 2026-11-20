@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+
+# Code cells only re-run when a page's source changes. Results are stored in
+# _freeze/, which must be committed so the GitHub Action never needs R or Python.
+execute:
+  freeze: auto
+
+website:
+  title: "Cucurbit Lab Docs"
+  description: "Internal documentation for the UNH Cucurbit Breeding & Genetics Program"
+  site-url: https://YOUR-ORG.github.io/YOUR-REPO/   # TODO: set to the Pages URL
+  repo-url: https://github.com/YOUR-ORG/YOUR-REPO   # TODO: set to the repo
+  repo-branch: main
+  repo-actions: [edit, issue]                        # adds "Edit this page" / "Report an issue" links
+  bread-crumbs: true
+  page-navigation: true                              # prev/next links at the bottom of each page
+  back-to-top-navigation: true
+  search:
+    location: navbar
+    type: overlay
+
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Contributing
+        href: contributing/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/YOUR-ORG/YOUR-REPO  # TODO
+        aria-label: GitHub repository
+
+  # The sidebar is built from the folder structure. Each folder's index.qmd
+  # becomes the section heading, and pages are sorted by their `order:` field.
+  # Adding a page never requires editing this file.
+  sidebar:
+    style: docked
+    collapse-level: 1
+    contents: auto
+
+  page-footer:
+    left: "UNH Cucurbit Breeding & Genetics Program"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [flatly, assets/light.scss, assets/custom.scss]
+      dark: [darkly, assets/dark.scss, assets/custom.scss]
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+    smooth-scroll: true
+    grid:
+      sidebar-width: 280px

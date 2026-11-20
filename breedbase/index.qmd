@@ -1,0 +1,11 @@
+---
+title: "Breedbase"
+description: "How the lab uses Breedbase."
+order: 2
+---
+
+::: {.callout-note appearance="minimal"}
+**Draft.** Write this page, then delete this note.
+:::
+
+Overview of the lab's Breedbase instance and what goes into it.

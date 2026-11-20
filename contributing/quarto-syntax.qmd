@@ -1,0 +1,122 @@
+---
+title: "Quarto syntax"
+description: "The handful of Quarto features this site uses, with copy-paste examples."
+order: 1
+engine: markdown
+---
+
+Everything here is regular Markdown plus a few Quarto additions. Each example shows the source, then what it looks like.
+
+## Callouts
+
+Five types: `note`, `tip`, `warning`, `important`, `caution`.
+
+````markdown
+::: {.callout-tip}
+## Label tubes before grinding
+Marker rubs off once tubes are frozen.
+:::
+````
+
+::: {.callout-tip}
+## Label tubes before grinding
+Marker rubs off once tubes are frozen.
+:::
+
+Add `collapse="true"` to make one that starts folded:
+
+````markdown
+::: {.callout-note collapse="true"}
+## Why we do it this way
+Background that most readers can skip.
+:::
+````
+
+::: {.callout-note collapse="true"}
+## Why we do it this way
+Background that most readers can skip.
+:::
+
+## Tabs
+
+Good for instructions that differ by operating system or by crop.
+
+````markdown
+::: {.panel-tabset}
+## Windows
+Use WinSCP.
+
+## macOS / Linux
+Use rclone.
+:::
+````
+
+::: {.panel-tabset}
+## Windows
+Use WinSCP.
+
+## macOS / Linux
+Use rclone.
+:::
+
+## Code blocks
+
+Name the language for syntax highlighting. Add a `filename` when it helps.
+
+````markdown
+```{.bash filename="Terminal"}
+sbatch run_calling.sh
+```
+````
+
+```{.bash filename="Terminal"}
+sbatch run_calling.sh
+```
+
+## Links between pages
+
+Link to the `.qmd` file with a relative path. Quarto turns it into the right web address.
+
+```markdown
+See [Nextcloud](../computing/nextcloud.qmd).
+Jump to a heading: [shared/geno layout](../computing/hpc.qmd#sharedgeno-layout).
+```
+
+## Images
+
+```markdown
+![Seed chipping setup](images/seed-chipping.jpg){fig-alt="Razor blade, cutting surface, and labeled 2 mL tubes on a bench" width="70%"}
+```
+
+The text in `[ ]` is the caption. `fig-alt` is read by screen readers, so describe what is in the picture.
+
+## Diagrams
+
+Quarto draws [Mermaid](https://mermaid.js.org/) diagrams from plain text.
+
+````markdown
+```{mermaid}
+flowchart LR
+  A[Harvest] --> B[Weigh] --> C[NIR scan] --> D[Upload]
+```
+````
+
+```{mermaid}
+flowchart LR
+  A[Harvest] --> B[Weigh] --> C[NIR scan] --> D[Upload]
+```
+
+## Running R code
+
+A chunk with `{r}` runs when the page renders and shows its output. Remove `engine: markdown` from the page header if you add one, and commit `_freeze/` afterwards (see [Contributing](index.qmd#pages-that-run-code)).
+
+````markdown
+```{r}
+#| label: fig-yield
+#| fig-cap: "Fruit weight by entry"
+library(ggplot2)
+ggplot(pheno, aes(entry, fruit_wt)) + geom_boxplot()
+```
+````
+
+To show R code without running it, leave off the braces: ```` ```r ````.

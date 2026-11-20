@@ -1,0 +1,33 @@
+---
+title: "Page title"
+description: "One sentence on what this page covers. Shows in search results."
+order: 10            # position within the sidebar section; lower numbers come first
+# author: "Your name"
+# date-modified: 2026-01-31
+---
+
+One or two sentences: what this is, who needs it, and when.
+
+## Before you start
+
+- Access, equipment, or materials needed
+- Pages to read first
+
+## Steps
+
+1. First step.
+2. Second step.
+3. Third step.
+
+::: {.callout-tip}
+## Tip
+Something that saves time or prevents a common mistake.
+:::
+
+## Troubleshooting
+
+**Symptom.** What to try.
+
+## See also
+
+- [Related page](../computing/where-data-lives.qmd)
