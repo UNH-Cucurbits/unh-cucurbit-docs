@@ -10,8 +10,8 @@ execute:
 website:
   title: "Cucurbit Lab Docs"
   description: "Internal documentation for the UNH Cucurbit Breeding & Genetics Program"
-  site-url: https://YOUR-ORG.github.io/YOUR-REPO/   # TODO: set to the Pages URL
-  repo-url: https://github.com/YOUR-ORG/YOUR-REPO   # TODO: set to the repo
+  site-url: https://unh-cucurbits.github.io/unh-cucurbit-docs/
+  repo-url: https://unh-cucurbits.github.io/unh-cucurbit-docs/
   repo-branch: main
   repo-actions: [edit, issue]                        # adds "Edit this page" / "Report an issue" links
   bread-crumbs: true
@@ -29,7 +29,7 @@ website:
         href: contributing/index.qmd
     right:
       - icon: github
-        href: https://github.com/YOUR-ORG/YOUR-REPO  # TODO
+        href: https://unh-cucurbits.github.io/unh-cucurbit-docs/
         aria-label: GitHub repository
 
   # The sidebar is built from the folder structure. Each folder's index.qmd
