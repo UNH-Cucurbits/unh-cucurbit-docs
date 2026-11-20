@@ -1,0 +1,34 @@
+---
+title: "Controlled vocabulary"
+order: 3
+---
+
+## Market class
+
+Market class codes are used in elite line and family codes (see [Breeding nomenclature](breeding/index.qmd)).
+
+- Codes are 2 or 3 uppercase letters.
+- No 3-letter code may start with `H` or `F`, since those letters mark hybrids and families.
+- Add a new code to this table before using it.
+
+| Species | Market class | Code |
+|---------|--------------|------|
+| *Cucurbita pepo* | Acorn | `AC` |
+| *Cucurbita pepo* | Pumpkin | `PU` |
+| *Cucurbita pepo* | Seed | `SP` |
+| *Cucurbita pepo* | Striped | `STP` |
+| *Cucurbita pepo* | Summer | `SS` |
+| *Cucurbita pepo* | Zucchini | `ZUC` |
+| *Cucurbita pepo* | Misc | `PEP` |
+| *Cucurbita moschata* | Butternut | `BN` |
+| *Cucurbita moschata* | Round | `RND` |
+| *Cucurbita moschata* | Processors | `MOP` |
+| *Cucurbita moschata* | Misc | `MOS` |
+| *Cucurbita maxima* | Kabocha | `KA` |
+| *Cucurbita maxima* | Processors | `MXP` |
+| *Cucurbita maxima* | Misc | `MAX` |
+| *Cucurbita maxima* | Pumpkin | `MPU` |
+| *C. maxima* × *C. moschata* | Tetsukabuto | `TET` |
+| *C. maxima* × *C. moschata* | Processors | `ISP` |
+| Other interspecific | Misc | `IS` |
+| *Cucumis melo* | Melon | `MEL` |

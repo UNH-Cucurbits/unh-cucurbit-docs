@@ -1,0 +1,64 @@
+---
+title: "Breeding nomenclature"
+order: 1
+---
+This page covers the parts every code is built from, with a quick reference of example IDs. The pages that follow explain each type in detail.
+
+
+## Building blocks
+
+New IDs for breeding material are based off of the table below.
+
+| Part | Abbreviation | Format | Meaning | Example |
+|------|--------------|--------|---------|---------|
+| Year | `[YY]` | 2 digits | Year of the season (see below) | `27` |
+| Season | `[S]` | 1 digit | `1` = winter, `2` = summer, `3` = fall | `2` |
+| Accession type | `H` or `F` | 1 letter, or nothing | Nothing = elite inbred, `H` = elite hybrid, `F` = family | `H` |
+| Market class | `[MC]` | 2 or 3 letters | From the controlled vocabulary | `PU` |
+| Counter | `[####]` | 4 digits, zero-padded | Sequence number within the year | `0005` |
+
+### Year and season
+
+The year and season part of the code is used to provide information on when material is derived. See specific rules below.
+
+- A winter season that crosses New Year takes the year it ends: December 2026 to March 2027 is `271`.
+- This keeps codes in calendar order: `262` (summer 2026), `271` (winter 2026 to 2027), `272` (summer 2027), `273` (fall 2027, late-summer finished before the New Year).
+
+What the year and season record depends on the code:
+
+| Accession Type | Year and season record |
+|------|------------------------|
+| Elite inbred or hybrid | First season the line was in an elite trial |
+| Family prefix | First season the F1 seed was planted |
+| Cross ID | Year only: the year the cross was made |
+
+### Market class
+
+- 2 or 3 letters, from the controlled vocabulary. <!-- add link -->
+- No 3-letter code may start with `H` or `F`. Otherwise `262HUB0001` could be an elite inbred of class `HUB` or an elite hybrid of class `UB`.
+
+### Counter
+
+- Counts per market class, per year. It does not restart between seasons: if `271PU0003` exists, the next pumpkin inbred coded in 2027 is `0004`, whether that's in summer (`272PU0004`) or fall (`273PU0004`).
+
+- Inbreds, hybrids and families keep separate counters. `272PU0005`, `272HPU0005` and `272FPU0005` can all exist and are unrelated.
+
+## Quick reference
+
+## Quick reference
+
+| Material | Pattern | Example | Reads as |
+|----------|---------|---------|----------|
+| Cross | `[YY][trial]X[###]` | `23HCX001` | 1st cross in the 23HC crossing trial |
+| Test cross | `[YY][trial]X[###]` | | A cross made in a trial with `TC` in its name |
+| F1 family | `[YY][S]F[MC][####]-#` | `232FAC0001-1` | F1 from cross 23HCX001; first planted summer 2023 |
+| Selfed generations | `-#` per selfed plant | `232FAC0001-1-5-6-8` | F4: plants 5, 6, then 8 selfed |
+| Plot bulk | `-P#` | `232FAC0001-1-P8` | F2 seed bulked from plot 8 of F1 plants |
+| Fruit | `F#` after the plant or plot | `232FAC0001-1-5-6-8F2` | Seed from fruit 2 of selfed plant 8 |
+| Hybrid-derived family | `-H-#` instead of `-#` | `242FPU0001-H-1` | Selfed commercial hybrid (cross 24PUX001); treat as an F2 |
+| Backcross | `-BF#` or `-BM#` | `231FPU0001-1-BM5-BM10-BM6-7` | Three backcrosses to the male parent, then one self |
+| Elite inbred | `[YY][S][MC][####]` | `272PU0005` | 5th pumpkin inbred coded in 2027; first elite trial summer 2027 |
+| Elite hybrid | `[YY][S]H[MC][####]` | `232HPU0010` | 10th pumpkin hybrid coded in 2023; first elite trial summer 2023 |
+| Shared seed | `NH` + elite code | `NH272PU0005` | 272PU0005 as sent outside the program |
+| Seedlot (non-commercial) | `[accession]_[trial]-[plot]-[plant]-[fruit]` | `PuritanBN_15881_242INCBLK4-019-1` | Plant 1, plot 19, trial 242INCBLK4; plant and fruit are optional |
+| Seedlot (commercial) | `[accession]_[YY]C[#]` | `Spicy_Mocha_23C1` | First Spicy_Mocha packet received in 2023 |
