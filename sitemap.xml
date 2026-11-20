@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/breedbase/record-types.html</loc>
-    <lastmod>2026-11-20T13:13:57.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/breedbase/index.html</loc>
-    <lastmod>2026-11-20T13:13:57.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/getting-started/accounts.html</loc>
-    <lastmod>2026-11-20T13:13:57.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/index.html</loc>
-    <lastmod>2026-11-20T13:13:57.620Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/naming/index.html</loc>
-    <lastmod>2026-11-20T13:13:57.620Z</lastmod>
-  </url>
-  <url>
     <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/protocols/nir-scanning.html</loc>
-    <lastmod>2026-11-20T13:13:57.621Z</lastmod>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
   </url>
   <url>
     <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/protocols/seed-dna-extraction.html</loc>
-    <lastmod>2026-11-20T13:13:57.621Z</lastmod>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
   </url>
   <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/where-data-lives.html</loc>
-    <lastmod>2026-11-20T13:13:57.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/nextcloud.html</loc>
-    <lastmod>2026-11-20T13:13:57.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/index.html</loc>
-    <lastmod>2026-11-20T13:13:57.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/contributing/index.html</loc>
-    <lastmod>2026-11-20T13:13:57.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/contributing/quarto-syntax.html</loc>
-    <lastmod>2026-11-20T13:13:57.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/varcall-pipeline.html</loc>
-    <lastmod>2026-11-20T13:13:57.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/cucurbitr.html</loc>
-    <lastmod>2026-11-20T13:13:57.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/hpc.html</loc>
-    <lastmod>2026-11-20T13:13:57.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/protocols/index.html</loc>
-    <lastmod>2026-11-20T13:13:57.620Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/naming/breeding-nomenclature.html</loc>
-    <lastmod>2026-11-20T13:13:57.620Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/naming/trait-short-names.html</loc>
-    <lastmod>2026-11-20T13:13:57.620Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/getting-started/index.html</loc>
-    <lastmod>2026-11-20T13:13:57.620Z</lastmod>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/breedbase/record-types.html</loc>
+    <lastmod>2026-11-20T13:17:36.297Z</lastmod>
   </url>
   <url>
     <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/breedbase/field-book.html</loc>
-    <lastmod>2026-11-20T13:13:57.618Z</lastmod>
+    <lastmod>2026-11-20T13:17:36.297Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/contributing/quarto-syntax.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/getting-started/accounts.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/naming/index.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/naming/breeding-nomenclature.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/index.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/varcall-pipeline.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/cucurbitr.html</loc>
+    <lastmod>2026-11-20T13:17:36.297Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/nextcloud.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/where-data-lives.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/computing/hpc.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/naming/trait-short-names.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/getting-started/index.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/contributing/index.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/index.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
   </url>
   <url>
     <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/breedbase/trials.html</loc>
-    <lastmod>2026-11-20T13:13:57.618Z</lastmod>
+    <lastmod>2026-11-20T13:17:36.297Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/breedbase/index.html</loc>
+    <lastmod>2026-11-20T13:17:36.297Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unh-cucurbits.github.io/unh-cucurbit-docs/protocols/index.html</loc>
+    <lastmod>2026-11-20T13:17:36.298Z</lastmod>
   </url>
 </urlset>
