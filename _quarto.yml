@@ -10,7 +10,7 @@ execute:
 website:
   title: "Cucurbit Lab Docs"
   description: "Internal documentation for the UNH Cucurbit Breeding & Genetics Program"
-  site-url: https://unh-cucurbits.github.io/unh-cucurbit-docs/
+  site-url: https://docs.unhcucurbits.org/
   repo-url: https://unh-cucurbits.github.io/unh-cucurbit-docs/
   repo-branch: main
   repo-actions: [edit, issue]                        # adds "Edit this page" / "Report an issue" links
