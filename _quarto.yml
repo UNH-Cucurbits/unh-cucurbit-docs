@@ -13,7 +13,6 @@ website:
   site-url: https://docs.unhcucurbits.org/
   repo-url: https://unh-cucurbits.github.io/unh-cucurbit-docs/
   repo-branch: main
-  repo-actions: [edit, issue]                        # adds "Edit this page" / "Report an issue" links
   bread-crumbs: true
   page-navigation: true                              # prev/next links at the bottom of each page
   back-to-top-navigation: true
@@ -42,7 +41,7 @@ website:
 
   page-footer:
     left: "UNH Cucurbit Breeding & Genetics Program"
-    right: "Built with [Quarto](https://quarto.org)"
+    right: "[Quarto](https://quarto.org)"
 
 format:
   html:
